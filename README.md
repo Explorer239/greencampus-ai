@@ -42,7 +42,7 @@ The project focuses on using data analysis, artificial intelligence, and data vi
 
 ## Project Demonstration
 
-Add your project demo video or demonstration link here, if available.
+[Watch GreenCampus AI Project Demo](https://www.youtube.com/watch?v=OYZ3x-Ix9RQ)
 
 ## Internship Information
 
