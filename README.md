@@ -38,7 +38,7 @@ The project focuses on using data analysis, artificial intelligence, and data vi
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here.
+![GreenCampus AI Dashboard](GreenCampus-Dashboard.png)
 
 ## Project Demonstration
 
